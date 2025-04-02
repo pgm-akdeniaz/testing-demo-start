@@ -3,10 +3,18 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon src/app.js"
   },
   "keywords": [],
   "author": "Karel De Smet",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pgm-akdeniaz/testing-demo-start.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pgm-akdeniaz/testing-demo-start/issues"
+  },
+  "homepage": "https://github.com/pgm-akdeniaz/testing-demo-start#readme"
 }
